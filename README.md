@@ -19,7 +19,7 @@ I'm a passionate software developer👩‍💻 with a strong interest in web dev
 
 *   **Languages:** HTML, CSS, JavaScript, Python,  SQL, Java, C, C++
 *   **Frameworks/Libraries:**  TensorFlow, Node.JS, JSON
-*   **Tools:** Git, AWS, Azure, Matlab, R
+*   **Tools:** Git, AWS, Azure, Matlab, R, Arduino
 *   **Databases:** MySQL, MongoDB
 
 <!--## Projects
