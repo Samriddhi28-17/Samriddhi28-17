@@ -11,8 +11,8 @@
 
 I'm a passionate software developer👩‍💻 with a strong interest in web development and data science. I am also exploring fields like Machine Learning, and cloud development.  I love building innovative solutions and learning new things every day.  I'm currently focused on enhancing my skills and building innovative projects.
 
-*   **Location:**📍 India
-*   **Pronouns:**👩 She/Her
+*   **Location:** 📍 India
+*   **Pronouns:** 👩 She/Her
 <!--*   **Portfolio:** [Link to Portfolio] -->
 
 ## Skills 🤹‍♀️
@@ -52,8 +52,8 @@ I'm a passionate software developer👩‍💻 with a strong interest in web dev
 
 *   [LinkedIn](https://www.linkedin.com/in/samriddhibagchi) 💼
 *   [Twitter](https://twitter.com/yourSAMRIDDHIly) 🐥
-<!--*   [Personal Website]([Website URL]) -->
 *   [Email](mailto:samriddhib.contact@gmail.com) 📧
+  <!--*   [Personal Website]([Website URL]) -->
 
 ## GitHub Stats 📊
 
