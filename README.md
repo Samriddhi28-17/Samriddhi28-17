@@ -1,31 +1,28 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Samriddhi Bagchi!
 
-[![GitHub followers](https://img.shields.io/github/followers/Samriddhi28-17?style=social&label=Follow&maxAge=3600)](https://github.com/Samriddhi28-17?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Samriddhi28-17?style=social&label=Follow&maxAge=3600)]
+
 [![Twitter](https://img.shields.io/twitter/follow/yourSAMRIDDHIly?style=social)](https://twitter.com/yourSAMRIDDHIly)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samriddhibagchi)
+
 
 ## About Me
 
-[Write a brief and engaging introduction about yourself.  Mention your interests, passions, and career goals.  What are you passionate about in the world of technology?]
+I'm a passionate software developer with a strong interest in web development and data science. I am also exploring fields like Machine Learning.  I love building innovative solutions and learning new things every day.  I'm currently focused on enhancing my skills and building innovative projects.
 
-For example:
-
-"I'm a passionate software developer with a strong interest in [mention specific technologies like web development, data science, machine learning, etc.].  I love building innovative solutions and learning new things every day.  I'm currently focused on [mention your current learning goals or projects]."
-
-*   **Location:** [Your City, Country]
-*   **Pronouns:** [He/Him, She/Her, They/Them, etc.]
-*   **Portfolio:** [Link to your personal website or portfolio (if you have one)]
+*   **Location:** India
+*   **Pronouns:** She/Her
+<!--*   **Portfolio:** [Link to Portfolio] -->
 
 ## Skills
 
-[List your technical skills and areas of expertise.  Use bullet points or icons for visual appeal.]
+*   **Languages:** HTML, CSS, JavaScript, Python,  SQL, Java, C, C++
+*   **Frameworks/Libraries:**  TensorFlow, Node.JS, JSON
+*   **Tools:** Git, AWS, Azure, Matlab, R
+*   **Databases:** MySQL, MongoDB
 
-*   **Languages:** JavaScript, Python, HTML, CSS, SQL, Java, C++
-*   **Frameworks/Libraries:** React, Node.js, Angular, Django, Flask, TensorFlow, PyTorch
-*   **Tools:** Git, Docker, Kubernetes, AWS, Azure, GCP
-*   **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-
-## Projects
+<!--## Projects
 
 [Showcase your most impressive and relevant projects.  Include a brief description, links to the repository or live demo, and any relevant technologies used.]
 
@@ -48,30 +45,22 @@ For example:
 
 ## Contributions
 
-[Highlight your contributions to open-source projects or other communities.]
-
 *   [Project Name 1] - [Brief description of your contribution] ([Link to the contribution, e.g., a pull request])
-*   [Project Name 2] - [Brief description of your contribution]
+*   [Project Name 2] - [Brief description of your contribution] -->
 
 ## Connect with Me
 
-[Provide links to your social media profiles and other online platforms.]
-
-*   [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Username])
-*   [Twitter](https://twitter.com/[Your Twitter Handle])
-*   [Personal Website]([Your Website URL])
-*   [Email](mailto:[Your Email Address])
+*   [LinkedIn](https://www.linkedin.com/in/samriddhibagchi)
+*   [Twitter](https://twitter.com/yourSAMRIDDHIly)
+<!--*   [Personal Website]([Website URL]) -->
+*   [Email](mailto:samriddhib.contact@gmail.com)
 
 ## GitHub Stats
 
-[Optional: Display your GitHub stats using a dynamic image.  This can be a fun way to showcase your activity.]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samriddhi28-17&show_icons=true&theme=dracula)](https://github.com/Samriddhi28-17)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=dracula)](https://github.com/[Your GitHub Username])
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=dracula)](https://github.com/[Your GitHub Username])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samriddhi28-17&layout=compact&theme=dracula)](https://github.com/Samriddhi28-17)
 
 ## Let's Connect!
 
-[A concluding sentence or call to action inviting people to connect with you.]
-
-"I'm always open to connecting with other developers and learning new things. Feel free to reach out!"
+I'm always open to connecting with other developers, collaborating on projects and learning new things. Let's Connect!
