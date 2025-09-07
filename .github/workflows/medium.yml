@@ -1,0 +1,27 @@
+name: Update Medium Articles
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Runs every hour (you can change to daily if you want)
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@samriddhibagchi"
+          max_post_count: 2
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Updated Medium articles" || echo "No changes to commit"
+          git push
