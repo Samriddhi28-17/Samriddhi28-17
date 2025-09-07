@@ -2,8 +2,11 @@ name: Update Medium Articles
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Runs every hour (you can change to daily if you want)
-  workflow_dispatch:       # Allow manual trigger
+    - cron: "0 0 * * *"   # runs once daily at midnight UTC
+  workflow_dispatch:       # allow manual trigger
+
+permissions:
+  contents: write   # ✅ allows GitHub Actions to commit to your repo
 
 jobs:
   update-readme:
@@ -17,11 +20,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@samriddhibagchi"
           max_post_count: 2
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Updated Medium articles" || echo "No changes to commit"
-          git push
+          commit_message: "Updated Medium articles"
