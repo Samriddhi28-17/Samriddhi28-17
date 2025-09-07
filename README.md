@@ -8,9 +8,7 @@
 
 
 ### ✍️ Latest Articles
-- [The Agentic AI Revolution: How Autonomous Systems Are Reshaping Our Digital Future](https://medium.com/@samriddhibagchi/the-agentic-ai-revolution-how-autonomous-systems-are-reshaping-our-digital-future-xxxx)
-- [The Complete Roadmap to Building Agentic AI: From Zero to Autonomous Systems](https://medium.com/@samriddhibagchi/the-complete-roadmap-to-building-agentic-ai-from-zero-to-autonomous-systems-xxxx)
-
+[![Medium – The Agentic AI Revolution](https://img.shields.io/badge/Medium%20Article-Read%20Now-12100E?logo=medium&logoColor=white)](https://medium.com/@samriddhibagchi/the-agentic-ai-revolution-how-autonomous-systems-are-reshaping-our-digital-future-97459023d46f)
 
 
 ## About Me 🌟
