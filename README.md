@@ -7,16 +7,16 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samriddhibagchi)
 
 
-### ✍️ Latest Articles
-[![Medium – The Agentic AI Revolution](https://img.shields.io/badge/Medium%20Article-Read%20Now-12100E?logo=medium&logoColor=white)](https://medium.com/@samriddhibagchi/the-agentic-ai-revolution-how-autonomous-systems-are-reshaping-our-digital-future-97459023d46f)
-
-
 ## About Me 🌟
 
-I'm a passionate software developer👩‍💻 with a strong interest in web development and data science. I am also exploring fields like Machine Learning, and cloud development.  I love building innovative solutions and learning new things every day.  I'm currently focused on enhancing my skills and building innovative projects.
+I'm a passionate software developer👩‍💻 with a strong interest in web development and data science. I am also exploring fields like Machine Learning and cloud development.  I love building innovative solutions and learning new things every day.  I'm currently focused on enhancing my skills and building innovative projects.
 
 *   **Location:** 📍 India
 <!--*   **Portfolio:** [Link to Portfolio] -->
+
+### I Write Medium Articles. Read my latest articles here 👇
+<!-- MEDIUM-POST-LIST:START -->
+<!-- MEDIUM-POST-LIST:END -->
 
 ## Skills 🤹‍♀️
 
