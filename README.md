@@ -4,6 +4,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samriddhibagchi)
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samriddhibagchi)
+
+
+### ✍️ Latest Articles
+- [The Agentic AI Revolution: How Autonomous Systems Are Reshaping Our Digital Future](https://medium.com/@samriddhibagchi/the-agentic-ai-revolution-how-autonomous-systems-are-reshaping-our-digital-future-xxxx)
+- [The Complete Roadmap to Building Agentic AI: From Zero to Autonomous Systems](https://medium.com/@samriddhibagchi/the-complete-roadmap-to-building-agentic-ai-from-zero-to-autonomous-systems-xxxx)
+
+
 
 ## About Me 🌟
 
