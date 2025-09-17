@@ -17,8 +17,8 @@ I'm a passionate software developer👩‍💻 with a strong interest in web dev
 ### I Write Medium Articles. Read my latest articles here 👇
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Roadmap to Building Agentic AI: From Zero to Autonomous Systems](https://medium.com/@samriddhibagchi/the-complete-roadmap-to-building-agentic-ai-from-zero-to-autonomous-systems-66dd2cb44699?source=rss-40185902cd76------2)
-- [The Agentic AI Revolution: How Autonomous Systems Are Reshaping Our Digital Future](https://medium.com/@samriddhibagchi/the-agentic-ai-revolution-how-autonomous-systems-are-reshaping-our-digital-future-97459023d46f?source=rss-40185902cd76------2)
+- [RAG: Retrieval-Augmented Generation Explained](https://medium.com/@samriddhibagchi/rag-retrieval-augmented-generation-explained-e314934d296c?source=rss-40185902cd76------2)
+- [Machine Learning Fundamentals: A Complete Guide to Essential Concepts](https://medium.com/@samriddhibagchi/machine-learning-fundamentals-a-complete-guide-to-essential-concepts-c4dd0e41723a?source=rss-40185902cd76------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skills 🤹‍♀️
