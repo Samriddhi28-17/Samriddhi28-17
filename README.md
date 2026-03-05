@@ -17,8 +17,8 @@ I'm a passionate software developer👩‍💻 with a strong interest in web dev
 ### I Write Medium Articles. Read my latest articles here 👇
 
 <!-- BLOG-POST-LIST:START -->
+- [The World Might Be a Consensus Hallucination](https://medium.com/@samriddhibagchi/the-world-might-be-a-consensus-hallucination-451e9a1ad5b9?source=rss-40185902cd76------2)
 - [RAG: Retrieval-Augmented Generation Explained](https://medium.com/@samriddhibagchi/rag-retrieval-augmented-generation-explained-e314934d296c?source=rss-40185902cd76------2)
-- [Machine Learning Fundamentals: A Complete Guide to Essential Concepts](https://medium.com/@samriddhibagchi/machine-learning-fundamentals-a-complete-guide-to-essential-concepts-c4dd0e41723a?source=rss-40185902cd76------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Skills 🤹‍♀️
